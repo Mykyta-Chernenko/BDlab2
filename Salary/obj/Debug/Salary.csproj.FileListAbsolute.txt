@@ -1,0 +1,17 @@
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\Salary.mdf
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\Salary_log.ldf
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\Salary.exe.config
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\Salary.exe
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\Salary.pdb
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.Properties.Resources.resources
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.csproj.GenerateResource.Cache
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.exe
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.pdb
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\SalaryDataSet.Designer.cs
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\SalaryDataSet.xsc
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\SalaryDataSet.xsd
+D:\универ\бд\DBLab2\Salary\Salary\bin\Debug\SalaryDataSet.xss
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.AddSalaryForm.resources
+D:\универ\бд\DBLab2\Salary\Salary\obj\Debug\Salary.MainForm.resources
